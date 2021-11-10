@@ -1,0 +1,366 @@
+{
+  "articulos": [
+    {
+      "id": "cf4qaB9I",
+      "nombre": "Lavadora",
+      "precio": "1540.00",
+      "marca": "LG",
+      "stock": "15"
+    },
+    {
+      "id": "_eKqz2mO",
+      "nombre": "Secadora",
+      "precio": "1300.00",
+      "marca": "Samsung",
+      "stock": "20"
+    },
+    {
+      "id": "PXh2Mnox",
+      "nombre": "Licuadora",
+      "precio": "500.00",
+      "marca": "Imaco",
+      "stock": "26"
+    },
+    {
+      "id": "BEYrUZxd"
+    },
+    {
+      "id": "QbgCsvPB",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "80savqoY",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "qISUBP7Z",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "mnwcmURq",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "DEPZdBVg",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "XS1Y3UP0",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "vMTc4W-J",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "zjA413Gf",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "m7eDwW71",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "XcYjJd9u",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "0yECzMfu",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "OlvlOL5H",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    },
+    {
+      "id": "V2baA-R2",
+      "articulos": [
+        {
+          "id": "cf4qaB9I",
+          "nombre": "Lavadora",
+          "precio": "1540.00",
+          "marca": "LG",
+          "stock": "15"
+        },
+        {
+          "id": "_eKqz2mO",
+          "nombre": "Secadora",
+          "precio": "1300.00",
+          "marca": "Samsung",
+          "stock": "20"
+        },
+        {
+          "id": "PXh2Mnox",
+          "nombre": "Licuadora",
+          "precio": "500.00",
+          "marca": "Imaco",
+          "stock": "26"
+        }
+      ]
+    }
+  ]
+}
